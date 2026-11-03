@@ -1,0 +1,7 @@
+{
+  "appId": "com.nexus.messenger",
+  "appName": "Nexus",
+  "webDir": "dist",
+  "backgroundColor": "#0b0d12",
+  "server": { "androidScheme": "https" }
+}
